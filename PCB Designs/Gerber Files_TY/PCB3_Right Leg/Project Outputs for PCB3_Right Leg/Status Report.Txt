@@ -1,0 +1,10 @@
+Output: Test Point Report
+Type  : Test Points
+From  : Project [PCB3_Right Leg.PrjPcb]
+   Generated File[Fabrication Testpoint Report for PCB3__Right Leg.ipc]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 12:02:10 On 2021/12/17

@@ -1,0 +1,10 @@
+Output: Test Point Report
+Type  : Test Points
+From  : Project [PCB2_Middle.PrjPcb]
+   Generated File[Fabrication Testpoint Report for PCB2_Middle.ipc]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 11:35:17 On 2021/12/17
