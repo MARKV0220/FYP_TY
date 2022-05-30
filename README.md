@@ -1,9 +1,9 @@
 # FYP_TY
 *This is the repository for Tianchen Yu's Final Year Project of a smart glasses frame for navigational purposes in orienteering. It contains all core design files of the project and some supplementary files are not uploaded for the clarity of repository structure*
 
-**Datasheet**: All related datasheets for the eletronic system of the glasses frame are included in this folder
+**Datasheet**: All related datasheets for the electronic system of the glasses frame are included in this folder
 
-**Glasses 3D Model**: All 3D modelling files of the glasses frame mechanical system are included in this folder. It also contains many iterations of the 3D model designs. The design is based on *AutoCAD*
+**Glasses 3D Model**: All 3D modelling files of the glasses frame mechanical system are included in this folder. It also contains many iterations of the 3D model designs. The designs are based on *AutoCAD*
 
 **Glasses Programs**: Two different versions of the program for glasses frame are included in this folder. Both of them are based on Arduino IDE. The basic version enables the core functions of the glasses frame including LED interface, buzzing, magnetic meter and simple user interaction. The advanced version adds the implementations of inertial units, data recording system and a more complex LED interface together with a more rigorous time sequence.
 
